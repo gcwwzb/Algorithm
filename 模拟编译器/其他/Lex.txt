@@ -1,8 +1,0 @@
-Lparen,(
-ident,a
-plus,+
-number,15
-Rparen,)
-times,*
-minus,-
-ident,b
